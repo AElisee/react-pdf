@@ -1,0 +1,56 @@
+{
+  "lettres": [
+    {
+      "id": "13ec",
+      "nom": "KOUASSI",
+      "prenom": "KOUAME ANGE-ELISEE",
+      "email": "contact@angekouassi.com",
+      "lieu": "Abidjan",
+      "telephone": "07 89 14 13 81",
+      "destinataire": "A MONSIEUR LE DIRECTEUR DES RESSOURCES HUMAINES",
+      "objet": "CANDIDATURE AU POSTE DE DEVELOPPEUR REACT",
+      "body": "A l’attention de l’équipe de recrutement de l’AGROMAP,\nAvec plus de 2 ans d'expériences en développement web et support informatique, je vous adresse ma candidature pour intégrer votre entreprise au poste de Développeur React. Disponible immédiatement, je suis prêt à rejoindre votre équipe, quel que soit le type de contrat proposé.\n\nMon parcours m'a permis d'acquérir une solide expertise dans le développement frontend avec des technologies modernes telles que React.js et Next.js. Mon objectif est d’apporter une contribution significative à vos projets tout en continuant d’enrichir mes compétences au sein d’une entreprise ambitieuse.\n\nJe suis particulièrement motivé par l'idée de travailler sur des projets dynamiques et d’approfondir mes compétences en collaboration avec des professionnels expérimentés. Enthousiaste à l'idée d'intégrer une structure comme la vôtre, je souhaite mettre à profit mes compétences techniques tout en poursuivant mon apprentissage continu.\n\nMa prétention salariale s’élève à 300 000 FCFA. Vous pouvez également consulter mon portfolio en ligne via le lien suivant : https://angekouassi.com, qui témoigne de ma maîtrise dans le domaine du développement Web.\n\nJe serais ravi de discuter de l’opportunité de rejoindre votre équipe lors d’un entretien, et je reste disponible pour échanger à votre convenance.\n\nDans l’attente de votre retour, je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.",
+      "date": "2024-12-14",
+      "createdAt": "2024-12-14T11:14:37.504Z"
+    },
+    {
+      "id": "1756",
+      "nom": "Bob",
+      "prenom": "Denard",
+      "email": "pop@gmail.com",
+      "lieu": "Abidjan",
+      "telephone": "0789141383",
+      "destinataire": "A monisieur le directeur des ressources humaine",
+      "objet": "lettre de demission",
+      "body": "A l’attention de l’équipe de recrutement de l’AGROMAP,\nAvec plus de 2 ans d'expériences en développement web et support informatique, je vous adresse ma candidature pour intégrer votre entreprise au poste de Développeur React. Disponible immédiatement, je suis prêt à rejoindre votre équipe, quel que soit le type de contrat proposé.\n\nMon parcours m'a permis d'acquérir une solide expertise dans le développement frontend avec des technologies modernes telles que React.js et Next.js.\n\nMon objectif est d’apporter une contribution significative à vos projets tout en continuant d’enrichir mes compétences au sein d’une entreprise ambitieuse.",
+      "date": "2024-12-14",
+      "createdAt": "2024-12-14T11:54:25.918Z"
+    },
+    {
+      "id": "ad1c",
+      "nom": "Elisha",
+      "prenom": "biden",
+      "email": "biden@gmail.co",
+      "lieu": "USA",
+      "telephone": "0789141381",
+      "destinataire": "Monsieur le directeur",
+      "objet": "candidature",
+      "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maxime, optio ipsum animi distinctio aut incidunt facilis vel, nobis labore, deserunt excepturi? Similique enim officia adipisci repellat error? Doloribus, saepe? Culpa.",
+      "date": "2024-12-16",
+      "createdAt": "2024-12-14T13:52:46.227Z"
+    },
+    {
+      "id": "a74d",
+      "nom": "Pop",
+      "prenom": "Elisha",
+      "email": "markus@gmail.com",
+      "lieu": "Abidjan",
+      "telephone": "0789141381",
+      "destinataire": "Monsieur de directeur",
+      "objet": "Avertissement",
+      "body": "aze",
+      "date": "2024-12-21",
+      "createdAt": "2024-12-14T14:03:37.287Z"
+    }
+  ]
+}
