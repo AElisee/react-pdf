@@ -51,6 +51,19 @@
       "body": "aze",
       "date": "2024-12-21",
       "createdAt": "2024-12-14T14:03:37.287Z"
+    },
+    {
+      "id": "f868",
+      "nom": "Yéo",
+      "prenom": "Elisha",
+      "email": "yeo@gmail.com",
+      "lieu": "Abidjan",
+      "telephone": "0789141381",
+      "destinataire": "Monsieur le president",
+      "objet": "candidature",
+      "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maxime, optio ipsum animi distinctio aut incidunt facilis vel, nobis labore, deserunt excepturi? Similique enim officia adipisci repellat error? Doloribus, saepe? Culpa.\n\nLorem, ipsum dolor sit amet consectetur adipisicing elit. Maxime, optio ipsum animi distinctio aut incidunt facilis vel, nobis labore, deserunt excepturi? Similique enim officia adipisci repellat error? Doloribus, saepe? Culpa.\n\nLorem, ipsum dolor sit amet consectetur adipisicing elit. Maxime, optio ipsum animi distinctio aut incidunt facilis vel, nobis labore, deserunt excepturi? Similique enim officia adipisci repellat error? Doloribus, saepe? Culpa.",
+      "date": "2024-12-17",
+      "createdAt": "2024-12-17T11:05:58.917Z"
     }
   ]
 }
